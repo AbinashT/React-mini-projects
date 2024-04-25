@@ -1,0 +1,33 @@
+.calc {
+  width: 320px;
+  margin: 100px auto;
+}
+
+#answer {
+  background-color: #e3e3e3;
+  padding: 10px;
+  border: 3px solid black;
+  outline: none;
+  width: 295px;
+  height: 45px;
+  font-size: 35px;
+  text-align: right;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  height: 80px;
+  width: 80px;
+  font-size: 30px;
+  border: 1px solid black;
+  outline: none;
+}
+
+.button:hover {
+  background-image: linear-gradient(to right, black, rgb(185, 122, 133));
+}
+
+.button1 {
+  width: 160px;
+}
